@@ -199,7 +199,7 @@
     "If you want to prevent other users on this computer from accessing Syncthing and through it your files, consider setting up authentication.": "Si desea evitar que otros usuarios de esta computadora accedan a Syncthing y, a través de él, a sus archivos, considere establecer la autenticación.",
     "Ignore": "Ignorar",
     "Ignore Patterns": "Patrones a ignorar",
-    "Ignore Permissions": "Permisos a ignorar",
+    "Ignore Permissions": "Ignorar permisos",
     "Ignore patterns can only be added after the folder is created. If checked, an input field to enter ignore patterns will be presented after saving.": "Los patrones a ignorar solo se pueden agregar luego de que la carpeta sea creada. Cuando se marca, se presentará un campo de entrada para introducir los patrones a ignorar después de guardar.",
     "Ignored Devices": "Dispositivos ignorados",
     "Ignored Folders": "Carpetas ignoradas",
